@@ -160,3 +160,6 @@ cython_debug/
 #.idea/
 ml-latest-small
 ml-latest
+test
+processed_image
+train
